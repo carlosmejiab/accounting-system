@@ -32,20 +32,11 @@ const USUARIOS_PRUEBA = [
   {
     id: 1,
     username: 'admin',
-    password: 'admin123',
+    password: 'Admin123!',
     nombre: 'Administrador',
     email: 'admin@miapp.com',
     rol: 'Administrador',
     avatar: 'https://ui-avatars.com/api/?name=Admin&background=667eea&color=fff'
-  },
-  {
-    id: 2,
-    username: 'usuario',
-    password: 'usuario123',
-    nombre: 'Usuario Demo',
-    email: 'usuario@miapp.com',
-    rol: 'Usuario',
-    avatar: 'https://ui-avatars.com/api/?name=Usuario&background=764ba2&color=fff'
   }
 ];
 

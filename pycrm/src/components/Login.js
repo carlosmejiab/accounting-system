@@ -266,8 +266,7 @@ const handleSubmit = async (e) => {
           <div className="login-footer">
             <div className="alert alert-info">
               <strong>Credenciales de prueba:</strong><br />
-              <code>Usuario: admin | Contraseña: admin123</code><br />
-              <code>Usuario: usuario | Contraseña: usuario123</code>
+              <code>Usuario: admin | Contraseña: Admin123!</code><br />
             </div>
           </div>
 
