@@ -1,0 +1,33 @@
+# React
+node_modules/
+build/
+dist/
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+
+# Config sensibles
+.env
+appsettings.Development.json
+appsettings.*.json
+
+# Launch profiles
+Properties/launchSettings.json
+
+# Claude local
+.claude/
+
+# SQL Server
+*.mdf
+*.ldf
+
+# OS
+Thumbs.db
+
+appsettings.json
+Properties/launchSettings.json
+
+**/launchSettings.json
